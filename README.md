@@ -10,4 +10,4 @@
 <p align="center">
   <img alt="License" src=".github/preview.jpg">
 </p>
-<p>Acesso ao projeto: </p>
+<p>Acesso ao projeto: https://game-roland.netlify.app/ </p>
